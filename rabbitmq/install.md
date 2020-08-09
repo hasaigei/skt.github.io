@@ -7,7 +7,7 @@
  
  * docker启动
  ----
-    1.不设置密码启动（默认账户密码：guest）
+    不设置密码启动（默认账户密码：guest）
     run -d --hostname my-rabbit --name rabbit -p 15672:15672 -p 5672:5672 rabbitmq:management
     
     启动参数意义
