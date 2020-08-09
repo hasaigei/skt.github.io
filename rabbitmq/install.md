@@ -3,7 +3,7 @@
 ### 使用docker安装
  * 下载rabbitmq源
  ----
-    docker pull rabbitmq:3.7.7-management
+    docker pull rabbitmq:management
  
  * docker启动
  ----
