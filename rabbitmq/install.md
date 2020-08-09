@@ -18,6 +18,8 @@
        
  * 打开页面 ip:15672
  ----
-    ![avatar](../imgs/rabbitmqIndex.png)
+ <table>
+ <img src="https://github.com/hasaigei/skt.github.io/raw/master/rabbitmq/imgs/rabbitmqIndex.png"/>
+ </table>
     
  
